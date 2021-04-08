@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">BMI CALC</string>
+    <string name="app_name">BMI CALCULATOR</string>
     <string name="action_settings">Settings</string>
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">First Fragment</string>
@@ -9,4 +9,14 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="form_sex_man">Man</string>
+    <string name="form_sex_woman">Woman</string>
+    <string name="form_result">Result</string>
+    <string name="form_back">Result</string>
+    <string name="form_calculate">Calculate</string>
+    <string name="form_sex">Sex</string>
+    <string name="form_age">Age</string>
+    <string name="form_height">Height in cm</string>
+    <string name="form_weight">Weight in kg</string>
 </resources>
