@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Vegan Chickpea Shakshuka",
+    "kcal": "2500",
+    "recipe": "<ul>\n<li>plain flour 75g</li>\n<li>salt a pinch</li>\n<li>whole milk 120ml</li>\n<li>eggs 1</li>\n</ul>",
+    "image": "sub-buzz-17177-1522174351-2.jpeg"
+  },
+  {
+    "name": "Peanut butter pancakes",
+    "kcal": "2000",
+    "recipe": "<ul>\n<li>plain flour 75g</li>\n<li>salt a pinch</li>\n<li>whole milk 120ml</li>\n<li>eggs 1</li>\n</ul>",
+    "image": "butter-pancakes.png"
+  },
+  {
+    "name": "Salomon rice",
+    "kcal": "1000",
+    "recipe": "<ul>\n<li>plain flour 75g</li>\n<li>salt a pinch</li>\n<li>whole milk 120ml</li>\n<li>eggs 1</li>\n</ul>",
+    "image": "rice.png"
+  }
+]
