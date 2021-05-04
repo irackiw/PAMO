@@ -111,6 +111,15 @@
         android:textColor="#fafafa" />
 
 
+    <Button
+        android:id="@+id/form_quiz"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="50dp"
+        android:background="@drawable/btn_bg"
+        android:onClick="quiz"
+        android:text="@string/form_quiz"
+        android:textColor="#fafafa" />
 
     <TextView
         android:id="@+id/result_title"
@@ -151,6 +160,7 @@
         android:text="@string/form_recipe"
         android:visibility="invisible"
         android:textColor="#fafafa" />
+
 
 
 </LinearLayout>

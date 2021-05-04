@@ -20,4 +20,7 @@
     <string name="form_height">Height in cm</string>
     <string name="form_weight">Weight in kg</string>
     <string name="form_recipe">Recipe idea for You</string>
+
+    <string name="form_quiz">Quiz</string>
+    <string name="form_quiz_start">Start</string>
 </resources>

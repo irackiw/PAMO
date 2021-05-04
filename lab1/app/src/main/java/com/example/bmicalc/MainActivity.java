@@ -22,7 +22,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Locale;
 
-public class MainActivity extends AppCompatActivity{
+public class MainActivity extends AppCompatActivity {
 
     private EditText height;
     private EditText weight;
@@ -153,6 +153,11 @@ public class MainActivity extends AppCompatActivity{
     public void onButtonClick(View v) {
         Intent myIntent = new Intent(getBaseContext(), RecipesActivity.class);
         myIntent.putExtra("kcal", kcal);
+        startActivity(myIntent);
+    }
+
+    public void quiz(View v) {
+        Intent myIntent = new Intent(getBaseContext(), QuizActivity.class);
         startActivity(myIntent);
     }
 

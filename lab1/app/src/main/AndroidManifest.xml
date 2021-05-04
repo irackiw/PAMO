@@ -24,6 +24,11 @@
             android:label="@string/app_name"
             android:theme="@style/Theme.BMICALC.NoActionBar">
         </activity>
+        <activity
+            android:name=".QuizActivity"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.BMICALC.NoActionBar">
+        </activity>
     </application>
 
 </manifest>

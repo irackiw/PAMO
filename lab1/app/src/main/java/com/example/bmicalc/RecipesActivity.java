@@ -61,7 +61,6 @@ public class RecipesActivity extends AppCompatActivity {
                 );
 
                 recipeDTOS.add(recipeDTO);
-
             }
 
 
@@ -100,4 +99,8 @@ public class RecipesActivity extends AppCompatActivity {
     }
 
 
+    public void start(View view) {
+        Intent myIntent = new Intent(getBaseContext(), QuizActivity.class);
+        startActivity(myIntent);
+    }
 }

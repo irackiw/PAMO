@@ -1,0 +1,59 @@
+[
+  {
+    "question": "What is the best thing to drink to keep you hydrated?",
+    "answers": [
+      "Water",
+      "Pepsi",
+      "Long Island Ice Tea",
+      "Gin & Tonic"
+    ],
+    "correctAnswer": "Water"
+  },
+  {
+    "question": "Substances found in food that help your body grow and develop?",
+    "answers": [
+      "Protein",
+      "Nutrients",
+      "Fiber"
+    ],
+    "correctAnswer": "Protein"
+  },
+  {
+    "question": "How many chambers are in the heart?",
+    "answers": [
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Vitamin D is sometimes called the ?",
+    "answers": [
+      "Sleepy vitamin",
+      "The 'dorky' vitamin",
+      "The sunshine vitamin"
+    ],
+    "correctAnswer": "The sunshine vitamin"
+  },
+  {
+    "question": "Bromodosis is?",
+    "answers": [
+      "Food poisoning",
+      "A caffeine high",
+      "Stinky feet",
+      "A fasting regimen"
+    ],
+    "correctAnswer": "Stinky feet"
+  },
+  {
+    "question": "Hyperlordosis is?",
+    "answers": [
+      "An over-sensitivity to bright light",
+      "Over-exercising",
+      "A sudden personality change",
+      "An exaggerated curve in the lower back"
+    ],
+    "correctAnswer": "An exaggerated curve in the lower back"
+  }
+]
